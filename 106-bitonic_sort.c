@@ -1,6 +1,6 @@
 /*
  * File: 106-bitonic_sort.c
- * Auth: Maro Okegbe
+ * Auth: Asuor Voke
  */
 
 #include "sort.h"
